@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiretychowdary&theme=dracula&margin-w=10&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kiretychowdary&theme=onedark&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -26,9 +26,9 @@
 
 ### 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kirety-manne-954045297/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/kirety_07" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
@@ -41,22 +41,26 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,mysql,python,c,git,opencv,tailwind" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,c,cpp,mysql,git,tailwind,bootstrap,vercel"/>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiretychowdary&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kiretychowdary&theme=radical" alt="Streak Stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiretychowdary&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
-### 🌈 3D Contribution Graph
+### 🌐 3D Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/output/github-contribution-grid-snake.svg" />
@@ -64,10 +68,14 @@
 
 ---
 
-### 💬 Quote of Devotion
+### 🧠 Dev Quote with Blessing
 
-> _"Code with Bhakti, Debug with Shakti, Deploy with Shraddha."_
+<blockquote align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0FF7ED&center=true&vCenter=true&width=435&lines=Code+with+Bhakti;Debug+with+Shakti;Deploy+with+Shraddha."/>
+</blockquote>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=26F781&center=true&vCenter=true&width=435&lines=RADHAKRISHNALOVEPERMANENT;AMMALOVEBLESSINGSONRECURSION"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=E3A3FF&center=true&vCenter=true&width=435&lines=RADHAKRISHNALOVEPERMANENT;AMMALOVEBLESSINGSONRECURSION"/>
 </p>
